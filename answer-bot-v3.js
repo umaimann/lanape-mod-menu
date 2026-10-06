@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         answer mod menu v2
+// @name         answer mod menu v3
 // @match        https://*.lanape.jp/test/*
 // @match        https://lanape.jp/test/*
 // @run-at       document-start
